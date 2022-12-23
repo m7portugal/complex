@@ -7,11 +7,6 @@ Projeto node-typescript-petshop.
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=red&labelColor=0D1117)&nbsp; 
 
-## :eyes: Site de demonstração
-
-Você pode acessar o site [aqui.](https://pets-ja9f.onrender.com/)
-
-
 <p align="center">INSTRUÇÕES</p>
 
 
