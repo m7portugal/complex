@@ -1,5 +1,5 @@
 ## :computer: Projeto
-Projeto nodets-pets.
+Projeto node-typescript-petshop.
 
 ## :rocket: Tecnologias
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=green)
