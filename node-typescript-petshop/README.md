@@ -7,7 +7,7 @@ Projeto node-typescript-petshop.
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=red&labelColor=0D1117)&nbsp; 
 
-<p align="center">INSTRUÇÕES</p>
+<p align="center">INSTRUÇÕES </p>
 
 
 ## Available Scripts
