@@ -1,2 +1,2 @@
 # complex
-Node | SQL | noSQL
+Node | SQL | noSQL |
